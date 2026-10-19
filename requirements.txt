@@ -6,6 +6,6 @@ langchain-community
 langchain-text-splitters
 langchain-huggingface
 sentence-transformers
-faiss-cpu    #ram m hi cheejen store karta h
+faiss-cpu    # RAM mein vector index use hota hai
 pypdf
-
+streamlit
